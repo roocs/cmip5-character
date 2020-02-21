@@ -1,0 +1,32 @@
+{
+    "calendar": "360_day",
+    "coords": "{'lat', 'time', 'lon'}",
+    "end_date": "2005-11-16 00:00:00",
+    "ensemble": "r1i1p1",
+    "experiment_id": "historical",
+    "frequency": "mon",
+    "institute_id": "MOHC",
+    "lat_max": "90.0",
+    "lat_min": "-90.0",
+    "lon_max": "358.125",
+    "lon_min": "0.0",
+    "long_name": "Carbon Mass Flux into Atmosphere due to Heterotrophic Respiration on Land",
+    "max_value": "nan",
+    "min_value": "nan",
+    "model_id": "HadGEM2-CC",
+    "modeling_realm": "land",
+    "project_id": "CMIP5",
+    "shape": [
+        1752,
+        145,
+        192
+    ],
+    "standard_name": "heterotrophic_respiration_carbon_flux",
+    "start_date": "1859-12-16 00:00:00",
+    "table_id": "Lmon",
+    "time_axis_length": 1752,
+    "time_long_name": "time",
+    "time_standard_name": "time",
+    "units": "kg m-2 s-1",
+    "variable": "rh"
+}

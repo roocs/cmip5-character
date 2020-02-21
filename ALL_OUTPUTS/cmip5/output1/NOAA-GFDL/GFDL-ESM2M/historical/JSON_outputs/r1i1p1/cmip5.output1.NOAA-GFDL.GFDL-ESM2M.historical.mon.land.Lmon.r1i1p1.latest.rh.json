@@ -1,0 +1,32 @@
+{
+    "calendar": "noleap",
+    "coords": "{'time', 'lat', 'lon', 'bnds'}",
+    "end_date": "2005-12-16 12:00:00",
+    "ensemble": "r1i1p1",
+    "experiment_id": "historical",
+    "frequency": "mon",
+    "institute_id": "NOAA GFDL",
+    "lat_max": "89.49438202247192",
+    "lat_min": "-89.49438202247192",
+    "lon_max": "358.75",
+    "lon_min": "1.25",
+    "long_name": "Carbon Mass Flux into Atmosphere due to Heterotrophic Respiration on Land",
+    "max_value": "2.028226e-07",
+    "min_value": "0.0",
+    "model_id": "GFDL-ESM2M",
+    "modeling_realm": "land",
+    "project_id": "CMIP5",
+    "shape": [
+        1740,
+        90,
+        144
+    ],
+    "standard_name": "heterotrophic_respiration_carbon_flux",
+    "start_date": "1861-01-16 12:00:00",
+    "table_id": "Lmon",
+    "time_axis_length": 1740,
+    "time_long_name": "time",
+    "time_standard_name": "time",
+    "units": "kg m-2 s-1",
+    "variable": "rh"
+}

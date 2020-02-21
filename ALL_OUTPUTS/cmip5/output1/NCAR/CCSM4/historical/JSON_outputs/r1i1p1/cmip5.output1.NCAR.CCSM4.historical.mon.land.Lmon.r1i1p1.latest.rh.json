@@ -1,0 +1,32 @@
+{
+    "calendar": "noleap",
+    "coords": "{'time', 'lat', 'lon'}",
+    "end_date": "2005-12-16 12:00:00",
+    "ensemble": "r1i1p1",
+    "experiment_id": "historical",
+    "frequency": "mon",
+    "institute_id": "NCAR",
+    "lat_max": "90.0",
+    "lat_min": "-90.0",
+    "lon_max": "358.75",
+    "lon_min": "0.0",
+    "long_name": "Carbon Mass Flux into Atmosphere due to Heterotrophic Respiration on Land",
+    "max_value": "1e+33",
+    "min_value": "0.0",
+    "model_id": "CCSM4",
+    "modeling_realm": "land",
+    "project_id": "CMIP5",
+    "shape": [
+        1872,
+        192,
+        288
+    ],
+    "standard_name": "heterotrophic_respiration_carbon_flux",
+    "start_date": "1850-01-16 12:00:00",
+    "table_id": "Lmon",
+    "time_axis_length": 1872,
+    "time_long_name": "time",
+    "time_standard_name": "time",
+    "units": "kg m-2 s-1",
+    "variable": "rh"
+}
