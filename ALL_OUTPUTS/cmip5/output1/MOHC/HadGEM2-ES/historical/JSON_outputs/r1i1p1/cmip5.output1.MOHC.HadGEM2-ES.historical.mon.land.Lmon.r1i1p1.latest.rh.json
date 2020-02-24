@@ -1,6 +1,6 @@
 {
     "calendar": "360_day",
-    "coords": "{'lon', 'lat', 'time'}",
+    "coords": "{'lat', 'lon', 'time'}",
     "end_date": "2005-11-16 00:00:00",
     "ensemble": "r1i1p1",
     "experiment_id": "historical",
